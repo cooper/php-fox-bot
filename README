@@ -1,6 +1,6 @@
 It's pretty self-explained. Use a different configuration file for each network. (see juno.php for an example)
 Make sure you setup owner host in the config to your host.
-Start with `php <config file>`.
+Start with `php <config file>`
 When the bot connects, assign it to its first channel with /msg <bot nick> .assign <channel>
 From there, you can get to know the bot by using the ".help" command.
 
